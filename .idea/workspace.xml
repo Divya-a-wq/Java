@@ -4,7 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="85d61adc-5954-4450-9a6c-607cfc5c430c" name="Changes" comment="" />
+=======
+    <list default="true" id="85d61adc-5954-4450-9a6c-607cfc5c430c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classCode/classCode.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Challenge/src/challenge44.java" beforeDir="false" afterPath="$PROJECT_DIR$/Challenge/src/challenge44.java" afterDir="false" />
+    </list>
+>>>>>>> 3b4bfcbbb69472188b6901904c5251468e87e446
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,6 +67,10 @@
     "Application.TestingDistinct.executor": "Run",
     "Application.TestingMethodRefernces.executor": "Run",
     "Application.TestingSorting.executor": "Run",
+<<<<<<< HEAD
+=======
+    "Application.Time.executor": "Run",
+>>>>>>> 3b4bfcbbb69472188b6901904c5251468e87e446
     "Application.UniqueCharacter.executor": "Run",
     "Application.accessTest.executor": "Run",
     "Application.arithmaticoperator.executor": "Run",
@@ -64,7 +78,13 @@
     "Application.arrayinJava.executor": "Run",
     "Application.arrayindexwithloop.executor": "Run",
     "Application.assignment.executor": "Run",
+<<<<<<< HEAD
     "Application.calculator.executor": "Run",
+=======
+    "Application.average.executor": "Run",
+    "Application.calculator.executor": "Run",
+    "Application.challenge48.executor": "Run",
+>>>>>>> 3b4bfcbbb69472188b6901904c5251468e87e446
     "Application.challenge81.EqualsAndhashCodeTest.executor": "Run",
     "Application.challengeforme.executor": "Run",
     "Application.challengefunction.executor": "Run",
@@ -175,10 +195,18 @@
     "Application.whileloopreverse.executor": "Run",
     "Application.writter.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+<<<<<<< HEAD
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/divya/Documents/myjava/java/Challenge",
     "onboarding.tips.debug.path": "C:/Users/divya/Documents/myjava/java/12 functional programming/src/Main.java",
+=======
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/divya/Documents/myjava/java/Challenge",
+    "onboarding.tips.debug.path": "C:/Users/divya/Documents/myjava/java/classCode/src/Main.java",
+>>>>>>> 3b4bfcbbb69472188b6901904c5251468e87e446
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.0",
@@ -197,7 +225,11 @@
       <recent name="com.example.challenge93" />
     </key>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Application.FinalTest">
+=======
+  <component name="RunManager" selected="Application.challenge48">
+>>>>>>> 3b4bfcbbb69472188b6901904c5251468e87e446
     <configuration name="FinalTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.challenge115.FinalTest" />
       <module name="Challenge" />
@@ -211,6 +243,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration name="OptionalString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.challenge112.OptionalString" />
       <module name="Challenge" />
@@ -237,6 +270,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+=======
+>>>>>>> 3b4bfcbbb69472188b6901904c5251468e87e446
     <configuration name="TestingSorting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.challenge114.TestingSorting" />
       <module name="Challenge" />
@@ -250,6 +285,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration name="testingFactorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.challenge111.testingFactorial" />
       <module name="Challenge" />
@@ -259,17 +295,44 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+=======
+    <configuration name="Time" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Time" />
+      <module name="classCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="average" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="average" />
+      <module name="classCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="challenge48" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="challenge48" />
+      <module name="Challenge" />
+>>>>>>> 3b4bfcbbb69472188b6901904c5251468e87e446
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+<<<<<<< HEAD
         <item itemvalue="Application.FinalTest" />
         <item itemvalue="Application.TestingSorting" />
         <item itemvalue="Application.TestingDistinct" />
         <item itemvalue="Application.OptionalString" />
         <item itemvalue="Application.testingFactorial" />
+=======
+        <item itemvalue="Application.challenge48" />
+        <item itemvalue="Application.average" />
+        <item itemvalue="Application.Time" />
+        <item itemvalue="Application.FinalTest" />
+        <item itemvalue="Application.TestingSorting" />
+>>>>>>> 3b4bfcbbb69472188b6901904c5251468e87e446
       </list>
     </recent_temporary>
   </component>

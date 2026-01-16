@@ -18,6 +18,10 @@
       <module fileurl="file://$PROJECT_DIR$/4 Control Statement Main And String/toString/append/append.iml" filepath="$PROJECT_DIR$/4 Control Statement Main And String/toString/append/append.iml" />
       <module fileurl="file://$PROJECT_DIR$/4 Control Statement Main And String/tostring/append1/append1.iml" filepath="$PROJECT_DIR$/4 Control Statement Main And String/tostring/append1/append1.iml" />
       <module fileurl="file://$PROJECT_DIR$/3 While Loop Methods And Array/array/array.iml" filepath="$PROJECT_DIR$/3 While Loop Methods And Array/array/array.iml" />
+<<<<<<< HEAD
+=======
+      <module fileurl="file://$PROJECT_DIR$/classCode/classCode.iml" filepath="$PROJECT_DIR$/classCode/classCode.iml" />
+>>>>>>> 3b4bfcbbb69472188b6901904c5251468e87e446
       <module fileurl="file://$PROJECT_DIR$/6 Object And Class/codeBlock/codeBlock.iml" filepath="$PROJECT_DIR$/6 Object And Class/codeBlock/codeBlock.iml" />
       <module fileurl="file://$PROJECT_DIR$/6 Object And Class/constructorChaining/constructorChaining.iml" filepath="$PROJECT_DIR$/6 Object And Class/constructorChaining/constructorChaining.iml" />
       <module fileurl="file://$PROJECT_DIR$/6 Object And Class/defaultConstructor/defaultConstructor.iml" filepath="$PROJECT_DIR$/6 Object And Class/defaultConstructor/defaultConstructor.iml" />

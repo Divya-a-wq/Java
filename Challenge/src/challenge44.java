@@ -30,5 +30,9 @@ public class challenge44 {
         return newArr;
 
     }
+<<<<<<< HEAD
 }
 
+=======
+}
+>>>>>>> 3b4bfcbbb69472188b6901904c5251468e87e446
